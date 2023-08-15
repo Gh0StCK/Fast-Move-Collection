@@ -5,8 +5,8 @@ Tell me thanks.
 
 # FastMoveCollection
 
-The addon allows you to quickly create tubes from splines, planes, and other 2D format objects that you can create yourself from objects, and which can be converted to a spline
+With this addon, you can move collection of object to other collections using the ToollBar button and selecting the desired collection in the drop-down menu.
 
-Create in the FastTools in the N-panel, a new item for interaction.
+Creates in the FastTools in the N-panel, a new item for interaction.
 
-Version Blender 3.4.1
+Version Blender 3.6.1
